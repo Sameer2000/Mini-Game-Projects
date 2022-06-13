@@ -1,1 +1,1 @@
-# Small-Game-Projects
+# Mini-Game-Projects
